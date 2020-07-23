@@ -26,7 +26,7 @@ slice["len"] = numbers.length;
 slice["cap"] = numbers.length;
 */
 
-//Aqui es la vaina
+
 test.Test(function(results){
     console.log("onSuccess !",results)
 })
